@@ -21,5 +21,5 @@ This project is a comprehensive exploration of **Natural Language Processing (NL
 
 ## Installation
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/GovindaTak/sms-spam-classification-nlp.git
